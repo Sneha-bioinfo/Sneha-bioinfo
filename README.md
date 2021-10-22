@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sneha-bioinfo 
 - 👀 I’m interested in bioinformatics and I'm looking for learning opportunities in dry lab based projects (Bio/IT/Healthcare)
 - 💞️ I’m looking to  collaborate on bioformatics based projects.
+- 💠 My prefered programming languages are Python and Perl. In RDBMS I prefer MySQL.
 - 📫 You can reach out to me at snneha26@gmail.com 
 
 <!---
