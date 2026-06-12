@@ -1,5 +1,5 @@
 🌐 **Check out my portfolio at** [sneha-bioinfo.github.io](https://sneha-bioinfo.github.io/)
--  Contact: snehadas09764@gmail.com
+📧 **Mail** snehadas09764@gmail.com
 
 
 <!---
